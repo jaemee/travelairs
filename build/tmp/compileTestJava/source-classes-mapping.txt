@@ -1,0 +1,6 @@
+com/example/travelairs/controller/FlightControllerTest.java
+ com.example.travelairs.controller.FlightControllerTest
+com/example/travelairs/TravelairsApplicationTests.java
+ com.example.travelairs.TravelairsApplicationTests
+com/example/travelairs/service/FlightsServiceTest.java
+ com.example.travelairs.service.FlightsServiceTest

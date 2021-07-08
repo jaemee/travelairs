@@ -1,0 +1,14 @@
+com/example/travelairs/TravelairsApplication.java
+ com.example.travelairs.TravelairsApplication
+com/example/travelairs/util/FlightsUtil.java
+ com.example.travelairs.util.FlightsUtil
+com/example/travelairs/entity/Flights.java
+ com.example.travelairs.entity.Flights
+com/example/travelairs/repository/FlightsRepository.java
+ com.example.travelairs.repository.FlightsRepository
+com/example/travelairs/dto/FlightsResponse.java
+ com.example.travelairs.dto.FlightsResponse
+com/example/travelairs/service/FlightsService.java
+ com.example.travelairs.service.FlightsService
+com/example/travelairs/controller/FlightController.java
+ com.example.travelairs.controller.FlightController
